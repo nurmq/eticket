@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "873072912621",
+    "firebase_url": "https://latihan-bwa.firebaseio.com",
+    "project_id": "latihan-bwa",
+    "storage_bucket": "latihan-bwa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873072912621:android:bf9ab4112de6def5ae04e4",
+        "android_client_info": {
+          "package_name": "com.example.latihan_flutix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873072912621-grhe06jrs4lsr2ktc4hrrou8fc556utl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBOJ0JPBecXn_MJB1m8R76SWAuIGQ-yJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873072912621-grhe06jrs4lsr2ktc4hrrou8fc556utl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
